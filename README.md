@@ -11,7 +11,7 @@ Physician and researcher working in clinical AI, computational psychiatry, and p
 * **[clinical-pdf-fact-guard](https://github.com/hsbrah98-max/clinical-pdf-fact-guard)**: Quote-verified summarizer for clinical and school intake records, with citation checks against the source PDF.
 * **[cobenfy-faers-pharmacovigilance](https://github.com/hsbrah98-max/cobenfy-faers-pharmacovigilance)**: READUS-PV disproportionality analysis of xanomeline-trospium with concomitant antimuscarinics in FDA FAERS.
 * **[glp1-antipsychotic-faers](https://github.com/hsbrah98-max/glp1-antipsychotic-faers)**: FAERS study of GLP-1 receptor agonist and second-generation antipsychotic interactions.
-* **[glp1-vegfr2-molecular-dynamics](https://github.com/hsbrah98-max/glp1-vegfr2-molecular-dynamics)**: 100 ns GROMACS simulations and MM-PBSA analysis of GLP-1 receptor agonists against VEGFR2.
+* **[glp1-vegfr2-molecular-dynamics](https://github.com/hsbrah98-max/glp1-vegfr2-molecular-dynamics)** with Natasha Prabhu: 100 ns GROMACS simulations and MM-PBSA analysis of GLP-1 receptor agonists against VEGFR2.
 
 ### Research & Computational Tools (Brah Lab Output)
 
